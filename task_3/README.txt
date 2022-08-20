@@ -24,8 +24,6 @@ Resourses:
 https://www.w3schools.com/nodejs/nodejs_mysql.asp
 https://youtu.be/2ojkb44XObc
 https://randomnerdtutorials.com/esp32-http-get-post-arduino/
-https://techtutorialsx.com/2017/05/19/esp32-http-get-requests/
-https://techtutorialsx.com/2017/04/24/esp32-connecting-to-a-wifi-network/
 
 
 
